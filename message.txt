@@ -1,11 +1,11 @@
-2 
+1 
 ||| 
 
 
 
-              [B][COLOR orange]Nueva actualización 170301[/COLOR][/B]
-          (Requerido tener instalado Kodi 17)
+[B][COLOR orange]Nueva actualización 170301[/COLOR][/B]
+(Requerido tener instalado Kodi 17)
 
-CANALES EN VIVO, películas, deportes, música y mucho más.
+[B][COLOR orange]CANALES EN VIVO[/COLOR][/B], películas, deportes, música y mucho más.
 
-   Visítanos en http://facebook.com/barbanegrakodi
+Visítanos en http://facebook.com/barbanegrakodi
